@@ -1,0 +1,11 @@
+*~
+*.fcstd?
+*.b#?
+*.l#?
+*.s#?
+*.pyc
+*.FCStd?
+fw/BUILD/
+fw/.mbedignore
+
+/bazel-*
